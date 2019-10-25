@@ -9,5 +9,6 @@ Gerenciador de tarefas, que tem como permissão de adicionar, pesquisar e remove
 <strong>Front-end</strong>
 <li>ReactJS
 <li>Redux
+<li>Bootstrap
 
 
