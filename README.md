@@ -4,7 +4,7 @@ Gerenciador de tarefas, que tem como permissão de adicionar, pesquisar e remove
 <strong>Back-end:</strong>
 <li>Express
 <li>Mongodb
-<li>Api rest
+<li>Api Rest
 
 <strong>Front-end</strong>
 <li>ReactJS
